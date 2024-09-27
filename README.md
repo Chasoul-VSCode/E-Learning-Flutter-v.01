@@ -1,3 +1,6 @@
+
+![Purple Pink Gradient Mobile Application Presentation - 2](https://github.com/user-attachments/assets/33bff418-5a7d-4e5c-8048-495d9ba7c43d)
+
 # my_mobileapp
 
 A new Flutter project.
